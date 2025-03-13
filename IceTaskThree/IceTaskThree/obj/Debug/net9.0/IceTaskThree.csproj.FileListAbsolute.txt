@@ -1,0 +1,14 @@
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\bin\Debug\net9.0\IceTaskThree.exe
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\bin\Debug\net9.0\IceTaskThree.deps.json
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\bin\Debug\net9.0\IceTaskThree.runtimeconfig.json
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\bin\Debug\net9.0\IceTaskThree.dll
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\bin\Debug\net9.0\IceTaskThree.pdb
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.AssemblyInfoInputs.cache
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.AssemblyInfo.cs
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.csproj.CoreCompileInputs.cache
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.dll
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\refint\IceTaskThree.dll
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.pdb
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\IceTaskThree.genruntimeconfig.cache
+C:\Users\natzn\source\repos\IceTaskThree\IceTaskThree\obj\Debug\net9.0\ref\IceTaskThree.dll
